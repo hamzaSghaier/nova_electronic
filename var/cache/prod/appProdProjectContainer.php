@@ -16,6 +16,6 @@ if (!\class_exists(appProdProjectContainer::class, false)) {
 
 return new \ContainerG5pmfop\appProdProjectContainer([
     'container.build_hash' => 'G5pmfop',
-    'container.build_id' => '879230f5',
-    'container.build_time' => 1554203054,
+    'container.build_id' => 'c66b949e',
+    'container.build_time' => 1554242004,
 ], __DIR__.\DIRECTORY_SEPARATOR.'ContainerG5pmfop');
